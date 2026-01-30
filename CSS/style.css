@@ -1,0 +1,11 @@
+.container{
+    width: 300px;
+    padding: 30px;
+    margin: auto;
+    border: 10px;
+    background-color: blanchedalmond;
+   
+}
+.btn{
+    background-color: brown;
+}
